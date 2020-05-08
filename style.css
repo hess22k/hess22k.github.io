@@ -10,3 +10,6 @@ h1 {
 td.middle {
    vertical-align: middle;
 }
+p.center {
+   text-align: center;
+}
