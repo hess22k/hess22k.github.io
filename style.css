@@ -7,9 +7,3 @@ body {
 h1 {
    color: #9370DB;
 }
-td.middle {
-   vertical-align: middle;
-}
-p.center {
-   text-align: center;
-}
